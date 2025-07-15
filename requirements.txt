@@ -2,4 +2,4 @@ fastapi
 scikit-learn
 xgboost
 pandas
-uvicorn
+uvicorn[standard]
